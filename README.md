@@ -3,6 +3,9 @@
 ####
 Je m'appel Pierre BOUFFIES (le "E" et le "S" se prononcent), j'ai 19 ans (21/04/2003).
 ####
+Mon tigre : 
+![image](chat.jpg)
+####
 J'ai le permis avec une voiture 🚗 (Clio 3) 
 
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
