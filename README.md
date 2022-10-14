@@ -1,10 +1,12 @@
 ## Présentation
-
+![image](PhotoID.jpg
 Je m'appel Pierre BOUFFIES (le "E" et le "S" se preononce), j'ai 19 ans
 
 ## Mon Entreprise
-
-l'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (SEE).
+Je suis en BTS SIO SLAM
+####
+L'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (SEE).
+![image](SEE.jpg)
 
 ## Compétences
 - Java
