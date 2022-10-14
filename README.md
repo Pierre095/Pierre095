@@ -16,6 +16,6 @@ L'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (
 - Markdown
 
 ## Passions
-- **Sport** : Handball, Course à pied
-- **Jeux Vidéo** : LOL, Rocket League, Trackmania
+- 🚴‍♂️**Sport** : Handball, Course à pied
+- 🎮**Jeux Vidéo** : LOL, Rocket League, Trackmania
 
