@@ -1,6 +1,7 @@
 ## Présentation
 ![image](PhotoID.jpg)
-Je m'appel Pierre BOUFFIES (le "E" et le "S" se preononce), j'ai 19 ans
+####
+Je m'appel Pierre BOUFFIES (le "E" et le "S" se prononcent), j'ai 19 ans
 
 ## Mon Entreprise
 Je suis en BTS SIO SLAM
