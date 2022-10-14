@@ -15,7 +15,6 @@ Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-C
 Je suis en BTS SIO SLAM.
 ####
 L'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (SEE).
-![image](SEE.jpg)
 
 ## Compétences
 - Java
