@@ -16,7 +16,7 @@ Je suis en BTS SIO SLAM.
 ####
 L'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (SEE).
 
-## Compétences
+## 👨‍💻 Compétences
 - Java
 - HTML
 - CSS
