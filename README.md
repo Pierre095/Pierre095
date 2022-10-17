@@ -16,13 +16,13 @@ Je suis en BTS SIO SLAM.
 ####
 L'entreprise dans laquelle je suis en Alternance est Service Expert Entreprise (SEE).
 
-## 👨‍💻 Compétences
+## 👨‍💻Compétences
 - Java
 - HTML
 - CSS
 - Markdown
 
-## Passions
+## 🔥Passions
 - 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
 - 🎮**Jeux Vidéo** : LOL, Rocket League, Trackmania
 - 😺**Animaux** : Chats, Chien
