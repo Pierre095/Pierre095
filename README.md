@@ -5,11 +5,11 @@ Je m'appel Pierre BOUFFIES (le "E" et le "S" se prononcent), j'ai 19 ans (21/04/
 
 J'ai le permis avec une voiture 🚗 (Clio 3)
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
-Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
+- Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
-Formation actuelle : BTS SIO SLAM
+- Formation actuelle : BTS SIO SLAM
 ####
-Mon entreprise : Service Expert Entreprise
+- Mon entreprise : Service Expert Entreprise
 ## 👨‍💻Compétences
 - Java
 - HTML
