@@ -1,9 +1,11 @@
 ## Présentation
 <img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
-Je m'appel Pierre BOUFFIES (le "E" et le "S" se prononcent), j'ai 19 ans (21/04/2003).
-
-J'ai le permis avec une voiture 🚗 (Clio 3)
+- NOM : BOUFFIES (le "E" et le "S" se prononcent)
+- Prénom : Pierre
+- 🥳Age : 19 ans (21/04/2003)
+- Permis : Oui
+- 🚗Voiture : Oui
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
 - Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
