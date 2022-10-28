@@ -1,14 +1,9 @@
 ## Présentation
-![image](PhotoID.jpg)
+![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fimgur.com%2Fgallery%2F268pM&psig=AOvVaw1ZPIVV6NtUNq5dgSBmxPrf&ust=1667043485458000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCMiFmI7rgvsCFQAAAAAdAAAAABAD)
 ####
 Je m'appel Pierre BOUFFIES (le "E" et le "S" se prononcent), j'ai 19 ans (21/04/2003).
 ####
-Mon tigre :
-####
-![image](chat1.jpg)
-####
-J'ai le permis avec une voiture 🚗 (Clio 3) 
-
+J'ai le permis avec une voiture 🚗 (Clio 3)
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
 Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
