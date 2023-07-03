@@ -26,5 +26,5 @@
 ## Pour mieux me Connaître :
 - **Portfolio** : https://bouffies.alwaysdata.net
 - **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
-- GitLab : https://gitlab.com/Pierre-BOUFFIES
+- **GitLab** : https://gitlab.com/Pierre-BOUFFIES
 
