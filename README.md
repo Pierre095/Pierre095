@@ -3,7 +3,7 @@
 
 - NOM : BOUFFIES (le "E" et le "S" se prononcent)
 - Prénom : Pierre
-- 🥳Age : 19 ans (21/04/2003)
+- 🥳Age : 20 ans (21/04/2003)
 - Permis : Oui
 - 🚗Voiture : Oui
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
@@ -22,4 +22,9 @@
 - 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
 - 🎮**Jeux Vidéo** : LOL, Rocket League, Trackmania
 - 😺**Animaux** : Chats, Chien
+
+## Pour mieux me Connaître :
+- **Portfolio** : https://bouffies.alwaysdata.net
+- **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
+- GitLab : https://gitlab.com/Pierre-BOUFFIES
 
