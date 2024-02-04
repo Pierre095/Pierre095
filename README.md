@@ -16,15 +16,18 @@
 - Java
 - HTML
 - CSS
+- Python
+- JavaScript
+- SQL
 - Markdown
 
 ## 🔥Passions
 - 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
-- 🎮**Jeux Vidéo** : LOL, Rocket League, Trackmania
+- 🎮**Jeux Vidéo** : Rocket League, LOL, Trackmania
 - 😺**Animaux** : Chats, Chien
 
 ## Pour mieux me Connaître :
-- **Portfolio** : https://bouffies.alwaysdata.net
+- **Portfolio** : https://pierrebouffies.fr
 - **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
 - **GitLab** : https://gitlab.com/Pierre-BOUFFIES
 
