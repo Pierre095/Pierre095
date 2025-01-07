@@ -9,7 +9,8 @@
 ## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
 - Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
-- Formation actuelle : BTS SIO SLAM
+- Titulaire d'un BTS SIO SLAM
+- Formation actuelle : BACHELOR 3
 ####
 - Mon entreprise : Service Expert Entreprise
 ## 👨‍💻Compétences
