@@ -6,7 +6,7 @@
 - 🥳Age : 20 ans (21/04/2003)
 - Permis : Oui
 - 🚗Voiture : Oui
-## 🎓Mes Formation / 👨‍⚖️Mon Entreprise
+## 🎓Mes Formations / 👨‍⚖️Mon Entreprise
 - Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
 - Titulaire d'un BTS SIO SLAM
