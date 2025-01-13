@@ -28,7 +28,7 @@
 - 😺**Animaux** : Chats, Chien
 
 ## Pour mieux me Connaître :
-- **Portfolio** : https://pierrebouffies.fr
+- **Portfolio** : [https://pierrebouffies.fr](https://portfolio-two-delta-40.vercel.app/)
 - **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
 - **GitLab** : https://gitlab.com/Pierre-BOUFFIES
 
