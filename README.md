@@ -1,7 +1,6 @@
 ## Présentation
-<img src="https://i.imgur.com/tRqTIdl.gif" width="50%"/>
 
-- NOM : BOUFFIES (le "E" et le "S" se prononcent)
+- NOM : BOUFFIES
 - Prénom : Pierre
 - 🥳Age : 22 ans (21/04/2003)
 - Permis : Oui
@@ -10,9 +9,10 @@
 - Lycée Paul Emile Victior : Baccalauréat Général Spécialité SVT, Physique-Chimie (Mention Assez-Bien)
 ####
 - Titulaire d'un BTS SIO SLAM
-- Formation actuelle : BACHELOR 3
+- Titulaire d'un BACHELOR INFORMATIQUE
+- Diplôme en cours : E3IN ILMSI
 ####
-- Mon entreprise : Service Expert Entreprise
+- Ma Situation : Alternant sans entreprise
 ## 👨‍💻Compétences
 - Java
 - HTML
@@ -20,7 +20,8 @@
 - Python
 - JavaScript
 - SQL
-- Markdown
+- Node.js
+- React
 
 ## 🔥Passions
 - 🚴‍♂️**Sport** : Handball🤾‍♀️, Course à pied🏃‍♂️
@@ -30,5 +31,4 @@
 ## Pour mieux me Connaître :
 - **Portfolio** : [https://pierrebouffies.fr](https://portfolio-two-delta-40.vercel.app/)
 - **Linkedin** : https://www.linkedin.com/in/pierre-bouffies-83b024235/
-- **GitLab** : https://gitlab.com/Pierre-BOUFFIES
 
